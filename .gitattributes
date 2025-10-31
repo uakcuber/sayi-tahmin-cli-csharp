@@ -1,6 +1,0 @@
-# GitHub Copilot'u contributor olarak gösterme
-* linguist-generated=false
-*.cs linguist-vendored=false
-
-# Co-authored-by commitlerini yoksay
-* gitlab-generated=false
